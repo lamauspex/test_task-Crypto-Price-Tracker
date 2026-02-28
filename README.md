@@ -5,7 +5,7 @@
 ## 🟢 Быстрый старт
 ### Клонируйте репозиторий
 ```bash
-git clone https://github.com/lamauspex/Test_Task
+git clone https://github.com/lamauspex/test_task-Crypto-Price-Tracker
 ```
 ### Сборка и запуск всех сервисов в фоновом режиме
 ```bash
